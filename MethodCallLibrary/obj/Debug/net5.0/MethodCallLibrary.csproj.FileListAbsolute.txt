@@ -1,0 +1,11 @@
+D:\C# Projects\Notes_Controller\MethodCallLibrary\bin\Debug\net5.0\MethodCallLibrary.deps.json
+D:\C# Projects\Notes_Controller\MethodCallLibrary\bin\Debug\net5.0\MethodCallLibrary.dll
+D:\C# Projects\Notes_Controller\MethodCallLibrary\bin\Debug\net5.0\ref\MethodCallLibrary.dll
+D:\C# Projects\Notes_Controller\MethodCallLibrary\bin\Debug\net5.0\MethodCallLibrary.pdb
+D:\C# Projects\Notes_Controller\MethodCallLibrary\obj\Debug\net5.0\MethodCallLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\Notes_Controller\MethodCallLibrary\obj\Debug\net5.0\MethodCallLibrary.AssemblyInfoInputs.cache
+D:\C# Projects\Notes_Controller\MethodCallLibrary\obj\Debug\net5.0\MethodCallLibrary.AssemblyInfo.cs
+D:\C# Projects\Notes_Controller\MethodCallLibrary\obj\Debug\net5.0\MethodCallLibrary.csproj.CoreCompileInputs.cache
+D:\C# Projects\Notes_Controller\MethodCallLibrary\obj\Debug\net5.0\MethodCallLibrary.dll
+D:\C# Projects\Notes_Controller\MethodCallLibrary\obj\Debug\net5.0\ref\MethodCallLibrary.dll
+D:\C# Projects\Notes_Controller\MethodCallLibrary\obj\Debug\net5.0\MethodCallLibrary.pdb

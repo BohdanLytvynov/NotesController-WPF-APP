@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ORM\Models.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="ViewModelBaseLibrary">
+      <HintPath>..\..\..\C# - Libraries\ViewModelBaseLibrary\bin\Debug\ViewModelBaseLibrary.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,8 @@
+D:\C# Projects\Notes_Controller\Enums\bin\Debug\netcoreapp3.1\Enums.deps.json
+D:\C# Projects\Notes_Controller\Enums\bin\Debug\netcoreapp3.1\Enums.dll
+D:\C# Projects\Notes_Controller\Enums\bin\Debug\netcoreapp3.1\Enums.pdb
+D:\C# Projects\Notes_Controller\Enums\obj\Debug\netcoreapp3.1\Enums.AssemblyInfoInputs.cache
+D:\C# Projects\Notes_Controller\Enums\obj\Debug\netcoreapp3.1\Enums.AssemblyInfo.cs
+D:\C# Projects\Notes_Controller\Enums\obj\Debug\netcoreapp3.1\Enums.csproj.CoreCompileInputs.cache
+D:\C# Projects\Notes_Controller\Enums\obj\Debug\netcoreapp3.1\Enums.dll
+D:\C# Projects\Notes_Controller\Enums\obj\Debug\netcoreapp3.1\Enums.pdb

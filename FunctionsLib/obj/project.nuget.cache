@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "PUEnc4D9tsRyQid6j9eWfqwnntkV32PRAICAj5cs79Cwusu5Lz7iqGk5hPnxiWVFQp7MIMfa1zs6GhjimVJ2Ag==",
+  "success": false,
+  "projectFilePath": "D:\\C# Projects\\Notes_Controller\\FunctionsLib\\FunctionsLib.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project Notes_Controller is not compatible with net5.0 (.NETCoreApp,Version=v5.0). Project Notes_Controller supports: net5.0-windows7.0 (.NETCoreApp,Version=v5.0)",
+      "libraryId": "Notes_Controller",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}

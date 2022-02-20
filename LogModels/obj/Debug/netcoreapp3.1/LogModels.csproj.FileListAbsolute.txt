@@ -1,0 +1,12 @@
+D:\C# Projects\Notes_Controller\LogModels\bin\Debug\netcoreapp3.1\LogModels.deps.json
+D:\C# Projects\Notes_Controller\LogModels\bin\Debug\netcoreapp3.1\LogModels.dll
+D:\C# Projects\Notes_Controller\LogModels\bin\Debug\netcoreapp3.1\LogModels.pdb
+D:\C# Projects\Notes_Controller\LogModels\bin\Debug\netcoreapp3.1\MethodCallLibrary.dll
+D:\C# Projects\Notes_Controller\LogModels\bin\Debug\netcoreapp3.1\MethodCallLibrary.pdb
+D:\C# Projects\Notes_Controller\LogModels\obj\Debug\netcoreapp3.1\LogModels.csprojAssemblyReference.cache
+D:\C# Projects\Notes_Controller\LogModels\obj\Debug\netcoreapp3.1\LogModels.AssemblyInfoInputs.cache
+D:\C# Projects\Notes_Controller\LogModels\obj\Debug\netcoreapp3.1\LogModels.AssemblyInfo.cs
+D:\C# Projects\Notes_Controller\LogModels\obj\Debug\netcoreapp3.1\LogModels.csproj.CoreCompileInputs.cache
+D:\C# Projects\Notes_Controller\LogModels\obj\Debug\netcoreapp3.1\LogModels.csproj.CopyComplete
+D:\C# Projects\Notes_Controller\LogModels\obj\Debug\netcoreapp3.1\LogModels.dll
+D:\C# Projects\Notes_Controller\LogModels\obj\Debug\netcoreapp3.1\LogModels.pdb

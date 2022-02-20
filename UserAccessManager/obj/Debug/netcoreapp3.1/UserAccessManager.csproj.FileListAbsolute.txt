@@ -1,0 +1,8 @@
+D:\C# Projects\Notes_Controller\UserAccessManager\bin\Debug\netcoreapp3.1\UserAccessManager.deps.json
+D:\C# Projects\Notes_Controller\UserAccessManager\bin\Debug\netcoreapp3.1\UserAccessManager.dll
+D:\C# Projects\Notes_Controller\UserAccessManager\bin\Debug\netcoreapp3.1\UserAccessManager.pdb
+D:\C# Projects\Notes_Controller\UserAccessManager\obj\Debug\netcoreapp3.1\UserAccessManager.AssemblyInfoInputs.cache
+D:\C# Projects\Notes_Controller\UserAccessManager\obj\Debug\netcoreapp3.1\UserAccessManager.AssemblyInfo.cs
+D:\C# Projects\Notes_Controller\UserAccessManager\obj\Debug\netcoreapp3.1\UserAccessManager.csproj.CoreCompileInputs.cache
+D:\C# Projects\Notes_Controller\UserAccessManager\obj\Debug\netcoreapp3.1\UserAccessManager.dll
+D:\C# Projects\Notes_Controller\UserAccessManager\obj\Debug\netcoreapp3.1\UserAccessManager.pdb

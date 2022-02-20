@@ -1,0 +1,12 @@
+D:\C# Projects\Notes_Controller\ViewModelBase\bin\Debug\net5.0\ViewModelBase.deps.json
+D:\C# Projects\Notes_Controller\ViewModelBase\bin\Debug\net5.0\ViewModelBase.dll
+D:\C# Projects\Notes_Controller\ViewModelBase\bin\Debug\net5.0\ref\ViewModelBase.dll
+D:\C# Projects\Notes_Controller\ViewModelBase\bin\Debug\net5.0\ViewModelBase.pdb
+D:\C# Projects\Notes_Controller\ViewModelBase\obj\Debug\net5.0\ViewModelBase.csprojAssemblyReference.cache
+D:\C# Projects\Notes_Controller\ViewModelBase\obj\Debug\net5.0\ViewModelBase.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\Notes_Controller\ViewModelBase\obj\Debug\net5.0\ViewModelBase.AssemblyInfoInputs.cache
+D:\C# Projects\Notes_Controller\ViewModelBase\obj\Debug\net5.0\ViewModelBase.AssemblyInfo.cs
+D:\C# Projects\Notes_Controller\ViewModelBase\obj\Debug\net5.0\ViewModelBase.csproj.CoreCompileInputs.cache
+D:\C# Projects\Notes_Controller\ViewModelBase\obj\Debug\net5.0\ViewModelBase.dll
+D:\C# Projects\Notes_Controller\ViewModelBase\obj\Debug\net5.0\ref\ViewModelBase.dll
+D:\C# Projects\Notes_Controller\ViewModelBase\obj\Debug\net5.0\ViewModelBase.pdb

@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <NoWin32Manifest>true</NoWin32Manifest>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ConfigController\ConfigController.csproj" />
+    <ProjectReference Include="..\Controller\NoteController.csproj" />
+    <ProjectReference Include="..\DataApiProvider\DataApiProvider.csproj" />
+    <ProjectReference Include="..\LogModels\LogModels.csproj" />
+    <ProjectReference Include="..\MethodCallLibrary\MethodCallLibrary.csproj" />
+    <ProjectReference Include="..\ORM\Models.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="ViewModelBaseLibrary">
+      <HintPath>..\..\..\C# - Libraries\ViewModelBaseLibrary\bin\Debug\ViewModelBaseLibrary.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="bin\Debug\net5.0-windows\Settings\" />
+  </ItemGroup>
+
+</Project>

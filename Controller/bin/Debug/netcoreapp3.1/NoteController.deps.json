@@ -1,0 +1,74 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "NoteController/1.0.0": {
+        "dependencies": {
+          "Models": "1.0.0",
+          "ViewModelBaseLibrary": "1.0.0.0"
+        },
+        "runtime": {
+          "NoteController.dll": {}
+        }
+      },
+      "Enums/1.0.0": {
+        "runtime": {
+          "Enums.dll": {}
+        }
+      },
+      "ErrorChecker/1.0.0": {
+        "runtime": {
+          "ErrorChecker.dll": {}
+        }
+      },
+      "Models/1.0.0": {
+        "dependencies": {
+          "Enums": "1.0.0",
+          "ErrorChecker": "1.0.0"
+        },
+        "runtime": {
+          "Models.dll": {}
+        }
+      },
+      "ViewModelBaseLibrary/1.0.0.0": {
+        "runtime": {
+          "ViewModelBaseLibrary.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NoteController/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Enums/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ErrorChecker/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ViewModelBaseLibrary/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

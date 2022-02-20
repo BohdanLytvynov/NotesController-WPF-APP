@@ -1,0 +1,9 @@
+D:\C# Projects\Notes_Controller\UserAccessManager\bin\Debug\netcoreapp3.1\ErrorChecker.deps.json
+D:\C# Projects\Notes_Controller\UserAccessManager\bin\Debug\netcoreapp3.1\ErrorChecker.dll
+D:\C# Projects\Notes_Controller\UserAccessManager\bin\Debug\netcoreapp3.1\ErrorChecker.pdb
+D:\C# Projects\Notes_Controller\UserAccessManager\obj\Debug\netcoreapp3.1\ErrorChecker.csprojAssemblyReference.cache
+D:\C# Projects\Notes_Controller\UserAccessManager\obj\Debug\netcoreapp3.1\ErrorChecker.AssemblyInfoInputs.cache
+D:\C# Projects\Notes_Controller\UserAccessManager\obj\Debug\netcoreapp3.1\ErrorChecker.AssemblyInfo.cs
+D:\C# Projects\Notes_Controller\UserAccessManager\obj\Debug\netcoreapp3.1\ErrorChecker.csproj.CoreCompileInputs.cache
+D:\C# Projects\Notes_Controller\UserAccessManager\obj\Debug\netcoreapp3.1\ErrorChecker.dll
+D:\C# Projects\Notes_Controller\UserAccessManager\obj\Debug\netcoreapp3.1\ErrorChecker.pdb

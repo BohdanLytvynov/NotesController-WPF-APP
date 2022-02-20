@@ -1,0 +1,156 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Notes_Controller/1.0.0": {
+        "dependencies": {
+          "ConfigController": "1.0.0",
+          "DataApiProvider": "1.0.0",
+          "LogModels": "1.0.0",
+          "MethodCallLibrary": "1.0.0",
+          "Models": "1.0.0",
+          "NoteController": "1.0.0",
+          "ViewModelBaseLibrary": "1.0.0.0"
+        },
+        "runtime": {
+          "Notes_Controller.dll": {}
+        }
+      },
+      "Newtonsoft.Json/13.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.1.25517"
+          }
+        }
+      },
+      "ConfigController/1.0.0": {
+        "runtime": {
+          "ConfigController.dll": {}
+        }
+      },
+      "DataApiProvider/1.0.0": {
+        "dependencies": {
+          "LogModels": "1.0.0",
+          "MethodCallLibrary": "1.0.0",
+          "Models": "1.0.0",
+          "Newtonsoft.Json": "13.0.1"
+        },
+        "runtime": {
+          "DataApiProvider.dll": {}
+        }
+      },
+      "Enums/1.0.0": {
+        "runtime": {
+          "Enums.dll": {}
+        }
+      },
+      "ErrorChecker/1.0.0": {
+        "runtime": {
+          "ErrorChecker.dll": {}
+        }
+      },
+      "LogModels/1.0.0": {
+        "dependencies": {
+          "MethodCallLibrary": "1.0.0"
+        },
+        "runtime": {
+          "LogModels.dll": {}
+        }
+      },
+      "MethodCallLibrary/1.0.0": {
+        "runtime": {
+          "MethodCallLibrary.dll": {}
+        }
+      },
+      "Models/1.0.0": {
+        "dependencies": {
+          "Enums": "1.0.0",
+          "ErrorChecker": "1.0.0"
+        },
+        "runtime": {
+          "Models.dll": {}
+        }
+      },
+      "NoteController/1.0.0": {
+        "dependencies": {
+          "Models": "1.0.0"
+        },
+        "runtime": {
+          "NoteController.dll": {}
+        }
+      },
+      "ViewModelBaseLibrary/1.0.0.0": {
+        "runtime": {
+          "ViewModelBaseLibrary.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Notes_Controller/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/13.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ppPFpBcvxdsfUonNcvITKqLl3bqxWbDCZIzDWHzjpdAHRFfZe0Dw9HmA0+za13IdyrgJwpkDTDA9fHaxOrt20A==",
+      "path": "newtonsoft.json/13.0.1",
+      "hashPath": "newtonsoft.json.13.0.1.nupkg.sha512"
+    },
+    "ConfigController/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DataApiProvider/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Enums/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ErrorChecker/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LogModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MethodCallLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NoteController/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ViewModelBaseLibrary/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

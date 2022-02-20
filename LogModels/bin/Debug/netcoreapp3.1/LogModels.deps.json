@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "LogModels/1.0.0": {
+        "dependencies": {
+          "MethodCallLibrary": "1.0.0"
+        },
+        "runtime": {
+          "LogModels.dll": {}
+        }
+      },
+      "MethodCallLibrary/1.0.0": {
+        "runtime": {
+          "MethodCallLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LogModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MethodCallLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

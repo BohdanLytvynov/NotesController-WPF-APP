@@ -1,0 +1,275 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0-windows7.0": {
+      "Newtonsoft.Json/13.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        }
+      },
+      "ConfigController/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/ConfigController.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ConfigController.dll": {}
+        }
+      },
+      "DataApiProvider/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "LogModels": "1.0.0",
+          "MethodCallLibrary": "1.0.0",
+          "Models": "1.0.0",
+          "Newtonsoft.Json": "13.0.1"
+        },
+        "compile": {
+          "bin/placeholder/DataApiProvider.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DataApiProvider.dll": {}
+        }
+      },
+      "Enums/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Enums.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Enums.dll": {}
+        }
+      },
+      "ErrorChecker/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/ErrorChecker.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ErrorChecker.dll": {}
+        }
+      },
+      "LogModels/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "MethodCallLibrary": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/LogModels.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LogModels.dll": {}
+        }
+      },
+      "MethodCallLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/MethodCallLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MethodCallLibrary.dll": {}
+        }
+      },
+      "Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Enums": "1.0.0",
+          "ErrorChecker": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Models.dll": {}
+        }
+      },
+      "NoteController/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/NoteController.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NoteController.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Newtonsoft.Json/13.0.1": {
+      "sha512": "ppPFpBcvxdsfUonNcvITKqLl3bqxWbDCZIzDWHzjpdAHRFfZe0Dw9HmA0+za13IdyrgJwpkDTDA9fHaxOrt20A==",
+      "type": "package",
+      "path": "newtonsoft.json/13.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "newtonsoft.json.13.0.1.nupkg.sha512",
+        "newtonsoft.json.nuspec",
+        "packageIcon.png"
+      ]
+    },
+    "ConfigController/1.0.0": {
+      "type": "project",
+      "path": "../ConfigController/ConfigController.csproj",
+      "msbuildProject": "../ConfigController/ConfigController.csproj"
+    },
+    "DataApiProvider/1.0.0": {
+      "type": "project",
+      "path": "../DataApiProvider/DataApiProvider.csproj",
+      "msbuildProject": "../DataApiProvider/DataApiProvider.csproj"
+    },
+    "Enums/1.0.0": {
+      "type": "project",
+      "path": "../Enums/Enums.csproj",
+      "msbuildProject": "../Enums/Enums.csproj"
+    },
+    "ErrorChecker/1.0.0": {
+      "type": "project",
+      "path": "../UserAccessManager/ErrorChecker.csproj",
+      "msbuildProject": "../UserAccessManager/ErrorChecker.csproj"
+    },
+    "LogModels/1.0.0": {
+      "type": "project",
+      "path": "../LogModels/LogModels.csproj",
+      "msbuildProject": "../LogModels/LogModels.csproj"
+    },
+    "MethodCallLibrary/1.0.0": {
+      "type": "project",
+      "path": "../MethodCallLibrary/MethodCallLibrary.csproj",
+      "msbuildProject": "../MethodCallLibrary/MethodCallLibrary.csproj"
+    },
+    "Models/1.0.0": {
+      "type": "project",
+      "path": "../ORM/Models.csproj",
+      "msbuildProject": "../ORM/Models.csproj"
+    },
+    "NoteController/1.0.0": {
+      "type": "project",
+      "path": "../Controller/NoteController.csproj",
+      "msbuildProject": "../Controller/NoteController.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0-windows7.0": [
+      "ConfigController >= 1.0.0",
+      "DataApiProvider >= 1.0.0",
+      "LogModels >= 1.0.0",
+      "MethodCallLibrary >= 1.0.0",
+      "Models >= 1.0.0",
+      "NoteController >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\user\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\C# Projects\\HW 22\\Notes_Controller\\Notes_Controller\\Notes_Controller.csproj",
+      "projectName": "Notes_Controller",
+      "projectPath": "D:\\C# Projects\\HW 22\\Notes_Controller\\Notes_Controller\\Notes_Controller.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "D:\\C# Projects\\HW 22\\Notes_Controller\\Notes_Controller\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0-windows7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "projectReferences": {
+            "D:\\C# Projects\\HW 22\\Notes_Controller\\ConfigController\\ConfigController.csproj": {
+              "projectPath": "D:\\C# Projects\\HW 22\\Notes_Controller\\ConfigController\\ConfigController.csproj"
+            },
+            "D:\\C# Projects\\HW 22\\Notes_Controller\\Controller\\NoteController.csproj": {
+              "projectPath": "D:\\C# Projects\\HW 22\\Notes_Controller\\Controller\\NoteController.csproj"
+            },
+            "D:\\C# Projects\\HW 22\\Notes_Controller\\DataApiProvider\\DataApiProvider.csproj": {
+              "projectPath": "D:\\C# Projects\\HW 22\\Notes_Controller\\DataApiProvider\\DataApiProvider.csproj"
+            },
+            "D:\\C# Projects\\HW 22\\Notes_Controller\\LogModels\\LogModels.csproj": {
+              "projectPath": "D:\\C# Projects\\HW 22\\Notes_Controller\\LogModels\\LogModels.csproj"
+            },
+            "D:\\C# Projects\\HW 22\\Notes_Controller\\MethodCallLibrary\\MethodCallLibrary.csproj": {
+              "projectPath": "D:\\C# Projects\\HW 22\\Notes_Controller\\MethodCallLibrary\\MethodCallLibrary.csproj"
+            },
+            "D:\\C# Projects\\HW 22\\Notes_Controller\\ORM\\Models.csproj": {
+              "projectPath": "D:\\C# Projects\\HW 22\\Notes_Controller\\ORM\\Models.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0-windows7.0": {
+        "targetAlias": "net5.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

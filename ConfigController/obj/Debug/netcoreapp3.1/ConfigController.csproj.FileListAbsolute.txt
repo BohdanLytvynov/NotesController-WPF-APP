@@ -1,0 +1,9 @@
+D:\C# Projects\Notes_Controller\ConfigController\bin\Debug\netcoreapp3.1\ConfigController.deps.json
+D:\C# Projects\Notes_Controller\ConfigController\bin\Debug\netcoreapp3.1\ConfigController.dll
+D:\C# Projects\Notes_Controller\ConfigController\bin\Debug\netcoreapp3.1\ConfigController.pdb
+D:\C# Projects\Notes_Controller\ConfigController\obj\Debug\netcoreapp3.1\ConfigController.AssemblyInfoInputs.cache
+D:\C# Projects\Notes_Controller\ConfigController\obj\Debug\netcoreapp3.1\ConfigController.AssemblyInfo.cs
+D:\C# Projects\Notes_Controller\ConfigController\obj\Debug\netcoreapp3.1\ConfigController.csproj.CoreCompileInputs.cache
+D:\C# Projects\Notes_Controller\ConfigController\obj\Debug\netcoreapp3.1\ConfigController.dll
+D:\C# Projects\Notes_Controller\ConfigController\obj\Debug\netcoreapp3.1\ConfigController.pdb
+D:\C# Projects\Notes_Controller\ConfigController\obj\Debug\netcoreapp3.1\ConfigController.csprojAssemblyReference.cache
