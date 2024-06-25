@@ -16,3 +16,20 @@ D:\C# Projects\Notes_Controller\Controller\obj\Debug\netcoreapp3.1\NoteControlle
 D:\C# Projects\Notes_Controller\Controller\obj\Debug\netcoreapp3.1\NoteController.pdb
 D:\C# Projects\Notes_Controller\Controller\bin\Debug\netcoreapp3.1\ErrorChecker.dll
 D:\C# Projects\Notes_Controller\Controller\bin\Debug\netcoreapp3.1\ErrorChecker.pdb
+D:\C# Projects\HW 22\Notes_Controller\Controller\bin\Debug\netcoreapp3.1\NoteController.deps.json
+D:\C# Projects\HW 22\Notes_Controller\Controller\bin\Debug\netcoreapp3.1\NoteController.dll
+D:\C# Projects\HW 22\Notes_Controller\Controller\bin\Debug\netcoreapp3.1\NoteController.pdb
+D:\C# Projects\HW 22\Notes_Controller\Controller\bin\Debug\netcoreapp3.1\Enums.dll
+D:\C# Projects\HW 22\Notes_Controller\Controller\bin\Debug\netcoreapp3.1\ErrorChecker.dll
+D:\C# Projects\HW 22\Notes_Controller\Controller\bin\Debug\netcoreapp3.1\Models.dll
+D:\C# Projects\HW 22\Notes_Controller\Controller\bin\Debug\netcoreapp3.1\Models.pdb
+D:\C# Projects\HW 22\Notes_Controller\Controller\bin\Debug\netcoreapp3.1\Enums.pdb
+D:\C# Projects\HW 22\Notes_Controller\Controller\bin\Debug\netcoreapp3.1\ErrorChecker.pdb
+D:\C# Projects\HW 22\Notes_Controller\Controller\obj\Debug\netcoreapp3.1\NoteController.csproj.AssemblyReference.cache
+D:\C# Projects\HW 22\Notes_Controller\Controller\obj\Debug\netcoreapp3.1\NoteController.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\HW 22\Notes_Controller\Controller\obj\Debug\netcoreapp3.1\NoteController.AssemblyInfoInputs.cache
+D:\C# Projects\HW 22\Notes_Controller\Controller\obj\Debug\netcoreapp3.1\NoteController.AssemblyInfo.cs
+D:\C# Projects\HW 22\Notes_Controller\Controller\obj\Debug\netcoreapp3.1\NoteController.csproj.CoreCompileInputs.cache
+D:\C# Projects\HW 22\Notes_Controller\Controller\obj\Debug\netcoreapp3.1\NoteController.csproj.CopyComplete
+D:\C# Projects\HW 22\Notes_Controller\Controller\obj\Debug\netcoreapp3.1\NoteController.dll
+D:\C# Projects\HW 22\Notes_Controller\Controller\obj\Debug\netcoreapp3.1\NoteController.pdb

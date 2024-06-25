@@ -7,3 +7,13 @@ D:\C# Projects\Notes_Controller\ConfigController\obj\Debug\netcoreapp3.1\ConfigC
 D:\C# Projects\Notes_Controller\ConfigController\obj\Debug\netcoreapp3.1\ConfigController.dll
 D:\C# Projects\Notes_Controller\ConfigController\obj\Debug\netcoreapp3.1\ConfigController.pdb
 D:\C# Projects\Notes_Controller\ConfigController\obj\Debug\netcoreapp3.1\ConfigController.csprojAssemblyReference.cache
+D:\C# Projects\HW 22\Notes_Controller\ConfigController\bin\Debug\netcoreapp3.1\ConfigController.deps.json
+D:\C# Projects\HW 22\Notes_Controller\ConfigController\bin\Debug\netcoreapp3.1\ConfigController.dll
+D:\C# Projects\HW 22\Notes_Controller\ConfigController\bin\Debug\netcoreapp3.1\ConfigController.pdb
+D:\C# Projects\HW 22\Notes_Controller\ConfigController\obj\Debug\netcoreapp3.1\ConfigController.csproj.AssemblyReference.cache
+D:\C# Projects\HW 22\Notes_Controller\ConfigController\obj\Debug\netcoreapp3.1\ConfigController.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\HW 22\Notes_Controller\ConfigController\obj\Debug\netcoreapp3.1\ConfigController.AssemblyInfoInputs.cache
+D:\C# Projects\HW 22\Notes_Controller\ConfigController\obj\Debug\netcoreapp3.1\ConfigController.AssemblyInfo.cs
+D:\C# Projects\HW 22\Notes_Controller\ConfigController\obj\Debug\netcoreapp3.1\ConfigController.csproj.CoreCompileInputs.cache
+D:\C# Projects\HW 22\Notes_Controller\ConfigController\obj\Debug\netcoreapp3.1\ConfigController.dll
+D:\C# Projects\HW 22\Notes_Controller\ConfigController\obj\Debug\netcoreapp3.1\ConfigController.pdb

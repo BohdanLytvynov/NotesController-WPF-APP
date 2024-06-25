@@ -7,3 +7,13 @@ D:\C# Projects\Notes_Controller\MethodCallLibrary\obj\Debug\netcoreapp3.1\Method
 D:\C# Projects\Notes_Controller\MethodCallLibrary\obj\Debug\netcoreapp3.1\MethodCallLibrary.dll
 D:\C# Projects\Notes_Controller\MethodCallLibrary\obj\Debug\netcoreapp3.1\MethodCallLibrary.pdb
 D:\C# Projects\Notes_Controller\MethodCallLibrary\obj\Debug\netcoreapp3.1\MethodCallLibrary.csprojAssemblyReference.cache
+D:\C# Projects\HW 22\Notes_Controller\MethodCallLibrary\bin\Debug\netcoreapp3.1\MethodCallLibrary.deps.json
+D:\C# Projects\HW 22\Notes_Controller\MethodCallLibrary\bin\Debug\netcoreapp3.1\MethodCallLibrary.dll
+D:\C# Projects\HW 22\Notes_Controller\MethodCallLibrary\bin\Debug\netcoreapp3.1\MethodCallLibrary.pdb
+D:\C# Projects\HW 22\Notes_Controller\MethodCallLibrary\obj\Debug\netcoreapp3.1\MethodCallLibrary.csproj.AssemblyReference.cache
+D:\C# Projects\HW 22\Notes_Controller\MethodCallLibrary\obj\Debug\netcoreapp3.1\MethodCallLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\HW 22\Notes_Controller\MethodCallLibrary\obj\Debug\netcoreapp3.1\MethodCallLibrary.AssemblyInfoInputs.cache
+D:\C# Projects\HW 22\Notes_Controller\MethodCallLibrary\obj\Debug\netcoreapp3.1\MethodCallLibrary.AssemblyInfo.cs
+D:\C# Projects\HW 22\Notes_Controller\MethodCallLibrary\obj\Debug\netcoreapp3.1\MethodCallLibrary.csproj.CoreCompileInputs.cache
+D:\C# Projects\HW 22\Notes_Controller\MethodCallLibrary\obj\Debug\netcoreapp3.1\MethodCallLibrary.dll
+D:\C# Projects\HW 22\Notes_Controller\MethodCallLibrary\obj\Debug\netcoreapp3.1\MethodCallLibrary.pdb
